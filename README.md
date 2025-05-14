@@ -106,9 +106,6 @@ Outcome
 
 The final CIS-CAT report showed improved compliance from an initial baseline. The VM now follows key endpoint protection practices, making it resilient against common threats.
 
-Screenshots
-
-(Add your screenshots here to show progress and settings)
 
 Next Steps
 
